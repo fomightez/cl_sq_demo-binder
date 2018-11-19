@@ -20,6 +20,9 @@ Meant to be self-contained and ready-to-go. No installations or copying of noteb
 
 I tried to include attributions for each resource when they were not mine; however, let me know if you catch an oversight or you'd like to suggest an improvement.
 
+## Related
+
+See [here](https://github.com/fomightez/structurework#related-binderized-utilities) for a listing of resources in a similar vein yet targeted to macromolecular structure data. In particular, see [cl_demo-binder](https://github.com/fomightez/cl_demo-binder) for the companion set to this one.
 
 ## Technical notes
 
