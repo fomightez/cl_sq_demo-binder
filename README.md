@@ -15,6 +15,8 @@ A launchable, working Jupyter-based environment that has a collection of demonst
 
 Meant to be self-contained and ready-to-go. No installations or copying of notebooks is necessary if `launch binder` is clicked. Everything will just work. Of course static version of the notebooks can also be used. I recommend rendering static versions by placing the URLs into the [nbviewer](https://nbviewer.jupyter.org/). The renders provided by [nbviewer](https://nbviewer.jupyter.org/) look best and Github's rendering will often time out (your mileage may vary).
 
+**Note: THIS REPO WAS STARTED AFTER SEVERAL OTHER DEMO NOTEBOOKS (many meant to be static) MADE FOR SEQUENCE SCRIPTs, and so don't expect all demos availabel to be here yet. I indeed fo hope to move those (slowly) here as well in order to be available in active form. Until then pointers for those scripts will continue to point to the unmoved, static demos.**
+
 
 ## Attributions
 
