@@ -1,0 +1,14 @@
+name: seq_demo-environment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas-datareader>=0.5.0
+  - matplotlib
+  - qgrid
+  - biopython
+  - intermine
+  - seaborn
+  - scipy
+  - statsmodel
