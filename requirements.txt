@@ -1,8 +1,0 @@
-numpy
-pandas
-qgrid
-matplotlib
-biopython
-intermine
-seaborn
-scipy
