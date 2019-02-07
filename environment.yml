@@ -1,6 +1,7 @@
 name: seq_demo-environment
 channels:
   - conda-forge
+  - bioconda
   - defaults
 dependencies:
   - numpy
@@ -11,4 +12,4 @@ dependencies:
   - intermine
   - seaborn
   - scipy
-  - statsmodel
+  - statsmodels
