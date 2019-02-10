@@ -7,7 +7,7 @@ dependencies:
   - numpy
   - pandas-datareader>=0.5.0
   - matplotlib
-  #- qgrid
+  - qgrid
   - biopython
   - intermine
   - seaborn
