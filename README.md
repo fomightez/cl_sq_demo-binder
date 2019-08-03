@@ -30,6 +30,10 @@ See [here](https://github.com/fomightez/structurework#related-binderized-utiliti
 
 This repository is set up to make use of the binder service offered by [MyBinder.org](https://mybinder.org/). See their site for more information about Binder.
 
+**TO DO:**  
+August 3, 2019, I pinned version of Matplotlib to 3.0.3 because that allowed heatmap used in [this demo](https://github.com/fomightez/cl_sq_demo-binder/blob/master/notebooks/Demo%20of%20script%20to%20calculate%20differences%20between%20sequences%20in%20multiFASTA%20file.ipynb) notebook to work. Unpin when 3.1.12 released ---> see https://github.com/matplotlib/matplotlib/issues/14675 . Current version as of writing this is 3.1.11 and it has the heatmaps cutoff.  
+TEST ANY [NEW RELEASE](https://github.com/matplotlib/matplotlib/releases) AND UNPIN IN `environment.yml.`
+
 
 Click `launch binder` below to start using the demonstrations.
 
