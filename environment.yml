@@ -10,9 +10,11 @@ dependencies:
   - matplotlib
   #- qgrid
   - biopython
-  - intermine
   - seaborn
   - scipy
   - statsmodels
   - hhsuite
   - nbgitpuller
+  - pip
+  - pip:
+    - https://github.com/intermine/intermine-ws-python/archive/dev.zip
