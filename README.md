@@ -24,11 +24,11 @@ I tried to include attributions for each resource when they were not mine; howev
 
 ## Related
 
-- [blast-binder](https://github.com/fomightez/blast-binder)
-- [patmatch-binder](https://github.com/fomightez/patmatch-binder)
-- [circos-binder](https://github.com/fomightez/circos-binder)
-- [hhsuite3-binder](https://github.com/fomightez/hhsuite3-binder)
-- [mscscan-binder](https://github.com/fomightez/mcscan-binder)
+- [blast-binder](https://github.com/fomightez/blast-binder) - BLAST with Jupyter/Python integration
+- [patmatch-binder](https://github.com/fomightez/patmatch-binder) - Pattern matching with Jupyter/Python integration
+- [circos-binder](https://github.com/fomightez/circos-binder) - Circos plots with Jupyter/Python integration
+- [hhsuite3-binder](https://github.com/fomightez/hhsuite3-binder) - HHSuite3 with Jupyter/Python integration
+- [mscscan-binder](https://github.com/fomightez/mcscan-binder) - McScan with Jupyter/Python integration
 
 Plus, see [here](https://github.com/fomightez/structurework#related-binderized-utilities) for a listing of resources in a similar vein yet targeted to macromolecular structure data. In particular, see [cl_demo-binder](https://github.com/fomightez/cl_demo-binder) for the companion set to this one.
 
