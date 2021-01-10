@@ -27,6 +27,7 @@ I tried to include attributions for each resource when they were not mine; howev
 - [blast-binder](https://github.com/fomightez/blast-binder) - BLAST with Jupyter/Python integration
 - [patmatch-binder](https://github.com/fomightez/patmatch-binder) - Pattern matching with Jupyter/Python integration
 - [circos-binder](https://github.com/fomightez/circos-binder) - Circos plots with Jupyter/Python integration
+- [bendit-binder](https://github.com/fomightez/bendit-binder) - Bend.it software to predict DNA curvature from DNA sequences combined with the power of the Jupyter ecosystem
 - [hhsuite3-binder](https://github.com/fomightez/hhsuite3-binder) - HHSuite3 with Jupyter/Python integration
 - [mscscan-binder](https://github.com/fomightez/mcscan-binder) - McScan with Jupyter/Python integration
 
