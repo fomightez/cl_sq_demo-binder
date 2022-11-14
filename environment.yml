@@ -15,7 +15,6 @@ dependencies:
   - statsmodels
   - hhsuite
   - nbgitpuller
-  - pb-assembly
   - pip
   - pip:
     - https://github.com/intermine/intermine-ws-python/archive/dev.zip
